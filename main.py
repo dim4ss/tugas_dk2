@@ -13,5 +13,5 @@ luas = panjang * lebar
 keliling = 2 * (panjang + lebar )
 
 #menampilkan hasil luas dan keliling
-print(f"luas persegi panjang: {luas}")
-print(f"keliling persegi panjang adalah: {keliling}")
+print(f"luas persegi panjang: {luas} satuan persegi")
+print(f"keliling persegi panjang adalah: {keliling} satuan")
