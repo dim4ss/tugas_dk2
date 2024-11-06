@@ -12,7 +12,6 @@ def input_positif(prompt):
         except ValueError:
             print("Input tidak valid.masukan angka.")
 
-
 #meminta input panjang dan lebar dari pengguna
 Panjang = float(input("masukan panjang persegi panjang:"))
 Lebar = float(input("masukan lebar persegi panjang:"))
